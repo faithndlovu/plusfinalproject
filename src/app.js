@@ -94,4 +94,4 @@ function displayforecast(response) {
 let searchFormElement = document.querySelector("#search-form");
 searchFormElement.addEventListener("submit", handleSearchSubmit);
 
-searchCity("Zimbabwe");
+searchCity("Bulawayo");
