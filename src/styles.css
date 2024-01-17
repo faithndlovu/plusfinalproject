@@ -93,11 +93,12 @@ main {
   font-size: 16px;
   line-height: 20px;
   margin-bottom: 10px;
+  display: flex;
 }
 .weather-forecast-icon {
   width: 88px;
   height: 88px;
-  display: block;
+  display: flex;
   margin: 0 auto;
 }
 .weather-forecast-temperatures {
